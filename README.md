@@ -28,7 +28,7 @@ A simple network topology consisting of:
 * **RTA:** Cisco Router
 * **SW1:** Cisco Switch
 * **PCA:** End Host (PC)
-* [Screenshot: PCA SSH Connection to RTA](screenshots/pca_ssh_rta.png)
+* [Screenshot: PCA SSH Connection to RTA]([screenshots/pca_ssh_rta.png](https://github.com/philiphineck/Configure-Password-and-SSH/blob/main/Secure%20Network%20Devices.png))
 
 ## Configuration Details
 
